@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "array": "cpp",
+        "*.tcc": "cpp",
+        "cmath": "cpp",
+        "limits": "cpp",
+        "bitset": "cpp",
+        "complex": "cpp",
+        "cstddef": "cpp",
+        "iomanip": "cpp",
+        "istream": "cpp"
+    }
+}
