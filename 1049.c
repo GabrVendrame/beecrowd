@@ -20,13 +20,13 @@ int main(){
         }
     } else{
         if(strcmp(palavra2, "inseto") == 0){
-            if(strcmp(palavra3, "hematofago") == 0){
+            if(strcmp(palavra3, "hematofogo") == 0){
                 printf("pulga\n");
             } else{
                 printf("lagarta\n");
             }
         } else{
-            if(strcmp(palavra3, "hematofago") == 0){
+            if(strcmp(palavra3, "hematofogo") == 0){
                 printf("sanguessuga\n");
             } else{
                 printf("minhoca\n");

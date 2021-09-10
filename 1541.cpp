@@ -1,13 +1,14 @@
-#include <iostream>
+#include <bits/stdc++.h>
  
 using namespace std;
  
 int main() {
-    int a, b, c;
-    cin >> a >> b >> c;
-    while(a == 0 || b == 0 || c == 0){
-        
-        cin >> a >> b >> c;
+ 
+    double a, b, c;
+    
+    while(cin >> a and a) {
+        cin >> b >> c;
+        cout << floor(sqrt(a * b / (c /100))) << endl;    
     }
     return 0;
 }
