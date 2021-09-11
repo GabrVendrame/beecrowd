@@ -8,11 +8,11 @@ int main(){
     for(i = 0; i < n; i++){
         scanf("%d %c", &quant, &tipo);
         total+=quant;
-        if(tipo == 'S'){
+        if(tipo == 83){
             quantS += quant;
-        } else if(tipo == 'R'){
+        } else if(tipo == 82){
             quantR += quant;
-        } else if(tipo == 'C'){
+        } else if(tipo == 67){
             quantC += quant;
         }
     }
