@@ -1,2 +1,2 @@
 # urionlinejudge
-exercises from urionlinejudge.com.br
+some exercises from urionlinejudge.com.br
