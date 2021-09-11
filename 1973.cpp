@@ -15,7 +15,7 @@ int main(){
         if(stars[pos] == 0){
             visited[pos] = 1;
             pos--;
-        } else { // if(stars[pos] > 0)
+        } else {
             if(stars[pos] % 2 == 0){
                 stars[pos]--;
                 sheeps--;

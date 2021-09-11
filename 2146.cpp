@@ -3,8 +3,9 @@
 using namespace std;
 
 int main(){
-    int p, j1, j2, r, a;
-    cin >> p >> j1 >> j2 >> r >> a;
-    
+    int n;
+    while(cin >> n){
+        cout << n - 1 << endl;
+    }
     return 0;
 }

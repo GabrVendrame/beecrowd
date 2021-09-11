@@ -3,8 +3,7 @@
 using namespace std;
  
 int main() {
-    int a, b;
-    
+    int a, b; 
     cin >> a >> b;
     int q = abs(a / b), r = abs(a % b);
     if(r == 0) {
@@ -18,6 +17,5 @@ int main() {
     } else {
         cout << q+1 << " " << abs(b)-r  << endl;
     }
-    
     return 0;
 }

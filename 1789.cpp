@@ -21,6 +21,5 @@ int main() {
         }
         cout << nivel << endl;
     }
-    
     return 0;
 }
