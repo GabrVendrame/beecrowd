@@ -1,2 +1,2 @@
-# urionlinejudge
-some exercises from urionlinejudge.com.br
+# beecrowd
+some exercises from beecrowd.com
